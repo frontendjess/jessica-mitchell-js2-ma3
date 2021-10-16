@@ -1,0 +1,13 @@
+body {
+	background-color: pink !important;
+}
+
+.container-padding {
+	padding-top: 2rem;
+}
+
+.alert-error {
+	border: solid 1px #ff0000;
+	background-color: #ffb3b3;
+	padding: 1rem;
+}
