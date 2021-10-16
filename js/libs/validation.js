@@ -1,8 +1,8 @@
 export const testLengthofInputValue = function (
-	valueFromInput,
+	valueFromInputBox,
 	numberOfCharactersValueShouldBe
 ) {
-	if (valueFromInput.length < numberOfCharactersValueShouldBe) {
+	if (valueFromInputBox.length < numberOfCharactersValueShouldBe) {
 		return false;
 	} else {
 		return true;
